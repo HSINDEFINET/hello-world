@@ -4,23 +4,23 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Names</b></label>
+    <label for="Name"><b>Enter Names1</b></label>
     <input type="text" placeholder="Enter Full Names" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobiles</b></label>
+    <label for="mobile"><b>Enter mobiles1</b></label>
     <input type="text" placeholder="Enter moible numbers" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Emails</b></label>
+    <label for="email"><b>Enter Emails1</b></label>
     <input type="text" placeholder="Enter Emails" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Password1</b></label>
     <input type="password" placeholder="Enter Passwords" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b>Repeat Password1</b></label>
     <input type="password" placeholder="Repeat Passwords" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
